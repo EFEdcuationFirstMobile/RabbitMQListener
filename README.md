@@ -4,6 +4,6 @@ To make it easier I've uploaded the exported jar file so if you're not intereste
 
 Usage is:
 
-java -jar rabbitListener.jar <host> <port> <user> <password> <virtualhost> <exchangeName> <topic>
+java -jar rabbitListener.jar host port user password virtualhost exchangeName topic
 
 Remember you can use * or # in topics to listen to one or several words
